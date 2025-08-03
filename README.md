@@ -1,5 +1,4 @@
-## 👋 Bem-vindo ao meu perfil!
-
+## 👋 Bem vindo!!
 # 🧑‍💻 Sobre mim
 Sou um estudante do ensino médio, escolhi a programação pois é a única coisa neste mundo na qual eu tive algum interesse.    
 Além disso, sou um "aluno" do Akita :).    
@@ -40,6 +39,10 @@ Sigo a lei do Akita: linguagens são meras ferramentas e não devem ser colocada
 - CSS
 - HTML
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikatoki&layout=compact&theme=radical" alt="Rikatoki's Top Languages"/>
+</p>
+
 **Frameworks:**
 - Flask
 - Flask-SQLAlchemy
@@ -64,5 +67,11 @@ Sigo a lei do Akita: linguagens são meras ferramentas e não devem ser colocada
 - React
 
 *Por enquanto, apenas isso que eu tenho em mente.*
+
+---
+<!-- GitHub Profile Status Panel -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rikatoki&show_icons=true&theme=radical" alt="Rikatoki's GitHub Stats"/>
+</p>
 
 ---
