@@ -2,14 +2,14 @@
 # 🧑‍💻 Sobre mim
 Sou um estudante do ensino médio, sou programador devido ao meu gosto pela criação, e de ser um criador.    
 "Aluno" de Fábio Akita :).    
-Acredito que saber a base é o primeiro passo para chegar ao topo, por isso desisti de ADS para ir de CC.
+Acredito que saber a base é o primeiro passo para chegar ao topo, por isso desisti de Análise e Desenvolvimento de Sistemas (ADS) para ir de Ciência da Computação (CC).
 
 **Objetivos:**  
 Simplesmente me tornar melhor.  
 Fazer algo na qual eu me orgulhe.
 
-**Escolarização:**  
-Ensino Médio - Cursando (2023-2025)
+**Cursos:**  
+Ensino Médio (EM) - Cursando (2023-2025)
 
 **Filosofia:**  
 "Saber 20% para resolver 80% dos problemas, saber 100% para resolver tudo."
@@ -35,9 +35,9 @@ Sigo a lei do Akita: linguagens são meras ferramentas e não devem ser colocada
 **Linguagens:**
 - C++
 - Python
-- JavaScript (Jamais encostarei em Java)
-- CSS
-- HTML
+- JavaScript
+- CSS3
+- HTML5
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rikatoki&layout=compact&theme=radical" alt="Rikatoki's Top Languages"/>
