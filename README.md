@@ -1,18 +1,18 @@
 ## 👋 Bem vindo!!
 # 🧑‍💻 Sobre mim
-Sou um estudante do ensino médio, escolhi a programação pois é a única coisa neste mundo na qual eu tive algum interesse.    
-Além disso, sou um "aluno" do Akita :).    
-Não sei deixar esse sobre-mim bonito, então vai assim mesmo.
+Sou um estudante do ensino médio, sou programador devido ao meu gosto pela criação, e de ser um criador.    
+"Aluno" de Fábio Akita :).    
+Acredito que saber a base é o primeiro passo para chegar ao topo, por isso desisti de ADS para ir de CC.
 
 **Objetivos:**  
-Me tornar alguém melhor, pois acredito que pessoas sem ambição não passam de zumbis.  
+Simplesmente me tornar melhor.  
 Fazer algo na qual eu me orgulhe.
 
-**Características:**  
-Descontraído, anti-social, simples.
+**Escolarização:**  
+Ensino Médio - Cursando (2023-2025)
 
-**Resumo:**  
-Quero melhorar minhas habilidades até o máximo possível, e talvez além dele.
+**Filosofia:**  
+"Saber 20% para resolver 80% dos problemas, saber 100% para resolver tudo."
 
 ---
 
